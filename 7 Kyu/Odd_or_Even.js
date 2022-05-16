@@ -1,4 +1,4 @@
-//no comment.
+//no comment
 
 function oddOrEven(n) {
   console.log(n)
